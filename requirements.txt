@@ -1,0 +1,6 @@
+openai
+gradio
+pytube
+youtube-transcript-api
+python-dotenv
+langdetect
