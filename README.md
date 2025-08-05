@@ -17,5 +17,5 @@ A Python application that generates concise summaries of YouTube videos using AI
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/youtube-summarizer.git
-   cd youtube-summarizer
+   git clone https://github.com/yourusername/YouTube-Video-Summarizer.git
+   cd YouTube-Video-Summarizer
